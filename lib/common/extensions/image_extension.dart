@@ -1,0 +1,40 @@
+class MyImages {
+  static var assetBase = "assets/images/";
+  static var random = '${assetBase}random.png';
+  static var meeting = '${assetBase}meeting.png';
+  static var quill = '${assetBase}quill.png';
+  static var profile = '${assetBase}profile.png';
+  static var google = '${assetBase}google.png';
+  static var apple = '${assetBase}apple.png';
+  static var email = '${assetBase}email.png';
+  static var chat = '${assetBase}chat.png';
+  static var bell = '${assetBase}bell.png';
+  static var search = '${assetBase}search.png';
+  static var close = '${assetBase}close.png';
+  static var comment = '${assetBase}comment.png';
+  static var placeHolderImage = '${assetBase}placeholder-image.png';
+  static var logo = '${assetBase}logo.png';
+  static var logoBlack = '${assetBase}logo_black.png';
+  static var logoWhite = '${assetBase}logo_white.png';
+  static var send = '${assetBase}send.png';
+  static var heart = '${assetBase}heart.png';
+  static var heartFill = '${assetBase}heart_fill.png';
+  static var chatProfile = '${assetBase}chat_profile.png';
+  static var post = '${assetBase}post.png';
+  static var story = '${assetBase}story.png';
+  static var more = '${assetBase}more.png';
+  static var audioRoom = '${assetBase}audio_room.png';
+  static var audioMic = '${assetBase}audio_mic.png';
+  static var headphone = '${assetBase}headphone.png';
+  static var handRaised = '${assetBase}handRaised.png';
+  static var micFill = '${assetBase}mic_fill.png';
+  static var micSlash = '${assetBase}mic_slash.png';
+  static var trash = '${assetBase}trash.png';
+  static var check = '${assetBase}check.png';
+  static var makeHost = '${assetBase}make_host.png';
+  static var sendStory = '${assetBase}send_story.png';
+  static var hashtag = '${assetBase}hashtag.png';
+  static var introBG = '${assetBase}intro_bg.png';
+
+  static var appIcon = 'ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png';
+}
