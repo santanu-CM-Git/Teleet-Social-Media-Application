@@ -4,7 +4,9 @@ This is a demo version of the Teleet application. The code structure is visible 
 
 ## Important Notes
 
-1. **This code cannot be run** without proper backend API configuration, Firebase setup, and third-party service credentials.
+1. **Demo-Only Screen**: When you run this application, it will display a "DEMO VERSION ONLY" screen instead of launching the actual app. This is intentional to protect the full implementation.
+
+2. **This code cannot be run** without proper backend API configuration, Firebase setup, and third-party service credentials.
 
 2. **Sensitive credentials have been removed** and replaced with placeholders:
    - API keys
@@ -49,9 +51,13 @@ This demo version allows you to:
 - Database schemas
 - Server-side API implementation
 
+## Running the Demo
+
+When you run `flutter run`, the application will launch and display a demo-only screen with information about this being a demonstration version. The actual application functionality is disabled.
+
 ## Getting Started (For Review Only)
 
-This code is provided for review purposes only. To actually run this application, you would need:
+This code is provided for review purposes only. To actually run the full application, you would need:
 
 1. Set up Firebase project and download configuration files
 2. Configure all API keys in `lib/utilities/const.dart`

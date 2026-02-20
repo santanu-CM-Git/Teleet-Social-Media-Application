@@ -440,6 +440,8 @@ https://www.teleet.com/api/
 
 This is a demo version of the Teleet application. The code structure is visible for demonstration purposes, but the application cannot be run without proper backend API configuration, Firebase setup, and third-party service credentials.
 
+**Important**: When you run this application, it will display a "DEMO VERSION ONLY" screen instead of launching the actual app. This is intentional to protect the full implementation. The demo screen clearly indicates that this is a demonstration version and the code structure is visible for review purposes only.
+
 ## License
 
 This project is proprietary software. All rights reserved.
